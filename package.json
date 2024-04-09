@@ -17,6 +17,8 @@
     "@lemonsqueezy/lemonsqueezy.js": "^2.2.0",
     "@lemonsqueezy/wedges": "^1.2.2",
     "@neondatabase/serverless": "^0.9.0",
+    "@supabase/ssr": "^0.1.0",
+    "@supabase/supabase-js": "^2.42.0",
     "clsx": "^2.1.0",
     "drizzle-orm": "^0.30.2",
     "geist": "^1.2.2",
